@@ -1,0 +1,44 @@
+.navbar-brand{
+    font-size: 50;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-decoration: solid;
+    font-color: black;
+    font-weight: bold;
+}
+
+.body {
+    background-color:#F84C2F;
+}
+
+h2{
+    text-align: center; margin-bottom: 20px; margin-top: 30px;
+}
+
+a{
+    color:black; 
+    text-decoration:none;
+}
+
+p{
+    font-size: 13px;
+}
+
+footer{
+    background-color: #F84C2F;
+}
+
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background-color: gray;
+}
+
+.divider2:after,
+.divider2:before {
+content: "";
+flex: 1;
+height: 1px;
+background-color: white;
+}
